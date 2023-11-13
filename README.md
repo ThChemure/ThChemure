@@ -2,7 +2,7 @@
 
 Meu nome é Thomas Chemure
 
-- Estou estudando no Alura
+- Estou estudando no [Alura](https://www.alura.com.br/)
 - Estou me desenvolvendo na linguagem JavaScript
 - Estarei utilizando esse espaço para organizar meus projetos desenvolvidos
 
